@@ -17,55 +17,55 @@
 
 ## 🇨🇳 简体中文
 
-**藤栖龟舍** 是一个人的工作室，做「本地优先」的桌面工具、静态站点和自动化脚本。
+**藤栖龟舍** 是一个**多人协作的小型工作室**，做「本地优先」的桌面工具、静态站点和自动化脚本。
 
-日常主力是 **Tauri 2 + Rust + React**：窗口要小、启动要快、数据不出本机。大部分源码托管在个人账号 [@VineTurtle](https://github.com/VineTurtle)，这里放需要独立组织空间的项目（公开发布版、协作仓库、静态站点）。
+日常主力是 **Tauri 2 + Rust + React**：窗口要小、启动要快、数据不出本机。目前大部分仓库由 [@VineTurtle](https://github.com/VineTurtle) 代为管理，其他成员在这里建分支、提 PR、共同维护；组织空间也用来放需要独立仓库的项目（公开发布版、协作仓库、静态站点）。
 
 | 项目 | 一句话 | 状态 |
 |---|---|---|
 | **VinePalma-Player** | 桌面媒体播放器 | [公开](https://github.com/VineTurtleStudio/VinePalma-Player) |
 | **GrapeLeafi-QQbot** | 本机自建 QQ 机器人框架（NapCatQQ + Node.js，内置防风控） | [公开](https://github.com/VineTurtleStudio/GrapeLeafi-QQbot) |
 
-> 更多项目（VineHub、VinePalma 系列、治世原型）见个人账号 [@VineTurtle](https://github.com/VineTurtle)。
+> 成员的早期个人项目与实验性代码仍在各自的个人账号下，例如 [@VineTurtle](https://github.com/VineTurtle)。
 
 ## 🇹🇼 繁體中文
 
-**藤棲龜舍** 是一個人的工作室，製作「本地優先」的桌面工具、靜態網站與自動化腳本。
+**藤棲龜舍** 是一個**多人協作的小型工作室**，製作「本地優先」的桌面工具、靜態網站與自動化腳本。
 
-日常主力是 **Tauri 2 + Rust + React**：視窗要小、啟動要快、資料不出本機。大部分原始碼託管在個人帳號 [@VineTurtle](https://github.com/VineTurtle)，這裡放需要獨立組織空間的專案（公開發行版、協作倉庫、靜態網站）。
+日常主力是 **Tauri 2 + Rust + React**：視窗要小、啟動要快、資料不出本機。目前大部分倉庫由 [@VineTurtle](https://github.com/VineTurtle) 代為管理，其他成員在此建立分支、提出 PR、共同維護；組織空間也用來放需要獨立倉庫的專案（公開發行版、協作倉庫、靜態網站）。
 
 | 專案 | 一句話 | 狀態 |
 |---|---|---|
 | **VinePalma-Player** | 桌面媒體播放器 | [公開](https://github.com/VineTurtleStudio/VinePalma-Player) |
 | **GrapeLeafi-QQbot** | 本機自建 QQ 機器人框架（NapCatQQ + Node.js，內建防風控） | [公開](https://github.com/VineTurtleStudio/GrapeLeafi-QQbot) |
 
-> 更多專案（VineHub、VinePalma 系列、治世原型）請見個人帳號 [@VineTurtle](https://github.com/VineTurtle)。
+> 成員的早期個人專案與實驗性程式碼仍在各自的個人帳號下，例如 [@VineTurtle](https://github.com/VineTurtle)。
 
 ## 🇬🇧 English
 
-**VineTurtleStudio** is a one-person studio building **local-first** desktop tools, static sites and automation scripts.
+**VineTurtleStudio** is a **small collaborative studio** building **local-first** desktop tools, static sites and automation scripts.
 
-The daily stack is **Tauri 2 + Rust + React**: small windows, fast startup, and your data never leaves your machine. Most source code lives on my personal account [@VineTurtle](https://github.com/VineTurtle); this organization hosts projects that need their own space (public releases, shared repos, static sites).
+The daily stack is **Tauri 2 + Rust + React**: small windows, fast startup, and your data never leaves your machine. Most repositories are currently managed by [@VineTurtle](https://github.com/VineTurtle); the rest of the team works here through branches and pull requests. The organization also hosts projects that need their own space (public releases, shared repos, static sites).
 
 | Project | What it is | Status |
 |---|---|---|
 | **VinePalma-Player** | Desktop media player | [Public](https://github.com/VineTurtleStudio/VinePalma-Player) |
 | **GrapeLeafi-QQbot** | Self-hosted QQ bot framework (NapCatQQ + Node.js, built-in anti-risk-control) | [Public](https://github.com/VineTurtleStudio/GrapeLeafi-QQbot) |
 
-> More projects (VineHub, the VinePalma series, the *Zhishi* prototype) are on [@VineTurtle](https://github.com/VineTurtle).
+> Early personal projects and experiments stay on each member's own account, for example [@VineTurtle](https://github.com/VineTurtle).
 
 ## 🇯🇵 日本語
 
-**藤棲亀舎（VineTurtleStudio）** は一人のスタジオです。**ローカルファースト** なデスクトップツール、静的サイト、自動化スクリプトを作っています。
+**藤棲亀舎（VineTurtleStudio）** は **少人数の協働スタジオ** です。**ローカルファースト** なデスクトップツール、静的サイト、自動化スクリプトを作っています。
 
-主力は **Tauri 2 + Rust + React**：小さいウィンドウ、速い起動、データはマシンの外に出ません。ソースコードの大半は個人アカウント [@VineTurtle](https://github.com/VineTurtle) にあり、この Organization には独立した置き場所が必要なプロジェクト（公開版・共同リポジトリ・静的サイト）を置いています。
+主力は **Tauri 2 + Rust + React**：小さいウィンドウ、速い起動、データはマシンの外に出ません。現在ほとんどのリポジトリは [@VineTurtle](https://github.com/VineTurtle) が管理しており、他のメンバーはブランチと Pull Request で参加しています。独立したリポジトリが必要なプロジェクト（公開版・共同リポジトリ・静的サイト）もこの Organization に置いています。
 
 | プロジェクト | 内容 | 状態 |
 |---|---|---|
 | **VinePalma-Player** | デスクトップメディアプレイヤー | [公開](https://github.com/VineTurtleStudio/VinePalma-Player) |
 | **GrapeLeafi-QQbot** | セルフホスト QQ ボットフレームワーク（NapCatQQ + Node.js、リスク対策内蔵） | [公開](https://github.com/VineTurtleStudio/GrapeLeafi-QQbot) |
 
-> その他のプロジェクト（VineHub、VinePalma シリーズ、『治世』プロトタイプ）は [@VineTurtle](https://github.com/VineTurtle) をご覧ください。
+> メンバーの初期の個人プロジェクトや実験的なコードは、各自のアカウントにあります（例：[@VineTurtle](https://github.com/VineTurtle)）。
 
 ---
 
